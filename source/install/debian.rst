@@ -16,7 +16,7 @@ Yubikey
 
 .. code:: bash
 
-   apt-get install libu2f-host0 yubikey-personalization-gui
+   apt-get install libu2f-host0 yubikey-personalization-gui yubikey-personalization
    service udev restart
 
 Further initial setup needs explained in [YubiEdit]_:
